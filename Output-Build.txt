@@ -1,0 +1,6 @@
+﻿Build started at 1:17 AM...
+1>------ Build started: Project: Q. Coordinates of a Point, Configuration: Debug x64 ------
+1>Q. Coordinates of a Point.cpp
+1>Q. Coordinates of a Point.vcxproj -> D:\problem-solving-C++\Q. Coordinates of a Point\Q. Coordinates of a Point\x64\Debug\Q. Coordinates of a Point.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 1:17 AM and took 01.143 seconds ==========
